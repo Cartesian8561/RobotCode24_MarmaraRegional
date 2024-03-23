@@ -1,0 +1,31 @@
+{
+  "version": 1.0,
+  "startingPose": {
+    "position": {
+      "x": 5.791933270880971,
+      "y": 5.692610896875513
+    },
+    "rotation": 175.99
+  },
+  "command": {
+    "type": "sequential",
+    "data": {
+      "commands": [
+        {
+          "type": "path",
+          "data": {
+            "pathName": "ben2"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "allahgibicommand"
+          }
+        }
+      ]
+    }
+  },
+  "folder": null,
+  "choreoAuto": false
+}
